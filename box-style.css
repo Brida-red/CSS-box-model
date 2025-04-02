@@ -29,11 +29,7 @@ aside ul li {
   text-align: center;
 }
 
-.main footer {
-  background-color: #23260F;
-  color: #9BA7BF;
-  margin: 4%;
-}
+.main footer {margin: 4%;}
 
 .main footer a { 
   border: solid 2px #23260F;
