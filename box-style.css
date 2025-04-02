@@ -39,7 +39,7 @@ h2 {font-size: 1.4rem;}
 
 h3 {font-size: 1.2rem;}
 
-aside {list-style-type: none;}
+aside ul {list-style-type: none;}
 
 aside ul li {
   margin: 1em;
@@ -53,10 +53,15 @@ aside ul li {
 
 . main footer {margin: 4%;}
 
-. main footer li {
-  border: solid 2px #23260F
+.main footer a { 
+  border: solid 2px #23260F;
   padding: 0.5em;
   display: inline-block;
+}
+
+. main footer li {
+ margin: 1em;
+  text-align: center;
 }  
 
 abbr {font-variant: small-caps;}
