@@ -4,7 +4,7 @@
   margin: auto;
 }
 
-#zen-intro {height: 550px;}
+#zen-intro {height: 250px;}
 
 #design-archives {display: none;}
 
@@ -25,7 +25,7 @@
 html {
   background: #9BA7BF;
   color: #23260F;
-  font-size: 18px;
+  font-size: 16px;
   font-family: roboto, arial, sans-serif; 
 }
 
