@@ -4,7 +4,7 @@
   margin: auto;
 }
 
-#zen-intro {height: 250px;}
+#zen-intro {height: 550px;}
 
 #design-archives {display: none;}
 
@@ -21,7 +21,26 @@
   margin-left: 1em;
   margin-right: 1em;
 }
-    
+
+aside ul {list-style-type: none;}
+
+aside ul li {
+  margin: 1em;
+  text-align: center;
+}
+
+.main footer {
+  background-color: #23260F;
+  color: #9BA7BF;
+  margin: 4%;
+}
+
+.main footer a { 
+  border: solid 2px #23260F;
+  padding: 0.5em;
+  display: inline-block;
+}
+
 html {
   background: #9BA7BF;
   color: #23260F;
@@ -39,25 +58,12 @@ h2 {font-size: 1.4rem;}
 
 h3 {font-size: 1.2rem;}
 
-aside ul {list-style-type: none;}
-
-aside ul li {
-  margin: 1em;
-  text-align: center;
-}
-  
+.main footer {margin: 4%;}
 
 .summary {text-align: right;}
 
 .main p {line-height: 1.5;}
 
-. main footer {margin: 4%;}
-
-.main footer a { 
-  border: solid 2px #23260F;
-  padding: 0.5em;
-  display: inline-block;
-}
 
 . main footer li {
  margin: 1em;
